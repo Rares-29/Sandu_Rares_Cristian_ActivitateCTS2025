@@ -1,0 +1,38 @@
+[
+  {
+    "idAsistent": 1,
+    "experienta": 3,
+    "nume": "Iancu Bogdan",
+    "varsta": 25
+  },
+  {
+    "idAsistent": 2,
+    "experienta": 5,
+    "nume": "Mihai Popescu",
+    "varsta": 27
+  },
+  {
+    "idAsistent": 3,
+    "experienta": 2,
+    "nume": "Elena Radu",
+    "varsta": 26
+  },
+  {
+    "idAsistent": 4,
+    "experienta": 4,
+    "nume": "Andrei Vasilescu",
+    "varsta": 28
+  },
+  {
+    "idAsistent": 5,
+    "experienta": 3,
+    "nume": "Gabriela Dumitrescu",
+    "varsta": 25
+  },
+  {
+    "idAsistent": 6,
+    "experienta": 6,
+    "nume": "Victor Marinescu",
+    "varsta": 29
+  }
+]

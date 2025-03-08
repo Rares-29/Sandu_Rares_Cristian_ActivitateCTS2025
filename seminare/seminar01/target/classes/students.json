@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nume": "Bogdan Popescu",
+    "varsta": 20
+  },
+  {
+    "id": 2,
+    "nume": "Andrei Ionescu",
+    "varsta": 21
+  },
+  {
+    "id": 3,
+    "nume": "Elena Dumitru",
+    "varsta": 22
+  },
+  {
+    "id": 4,
+    "nume": "Matei Radu",
+    "varsta": 19
+  },
+  {
+    "id": 5,
+    "nume": "Ioana Vasilescu",
+    "varsta": 20
+  },
+  {
+    "id": 6,
+    "nume": "Alexandru Georgescu",
+    "varsta": 23
+  },
+  {
+    "id": 7,
+    "nume": "Gabriela Stan",
+    "varsta": 21
+  },
+  {
+    "id": 8,
+    "nume": "Vlad Marinescu",
+    "varsta": 22
+  }
+]

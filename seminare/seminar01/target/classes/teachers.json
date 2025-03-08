@@ -1,0 +1,38 @@
+[
+  {
+    "idAngajat": 1,
+    "experienta": 15,
+    "nume": "Adrian Popescu",
+    "varsta": 45
+  },
+  {
+    "idAngajat": 2,
+    "experienta": 20,
+    "nume": "Maria Ionescu",
+    "varsta": 50
+  },
+  {
+    "idAngajat": 3,
+    "experienta": 10,
+    "nume": "Bogdan Radu",
+    "varsta": 38
+  },
+  {
+    "idAngajat": 4,
+    "experienta": 12,
+    "nume": "Ioana Vasilescu",
+    "varsta": 42
+  },
+  {
+    "idAngajat": 5,
+    "experienta": 18,
+    "nume": "Mihai Dumitru",
+    "varsta": 48
+  },
+  {
+    "idAngajat": 6,
+    "experienta": 6,
+    "nume": "Victor Marinescu",
+    "varsta": 29
+  }
+]
