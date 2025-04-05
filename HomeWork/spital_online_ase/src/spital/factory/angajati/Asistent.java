@@ -1,4 +1,4 @@
-package spital.angajati;
+package spital.factory.angajati;
 
 public class Asistent extends PersonalSpital{
 

@@ -1,4 +1,4 @@
-package spital.angajati;
+package spital.factory.angajati;
 
 public class Brancardier extends PersonalSpital{
     public Brancardier(String nume, Integer vechime) {

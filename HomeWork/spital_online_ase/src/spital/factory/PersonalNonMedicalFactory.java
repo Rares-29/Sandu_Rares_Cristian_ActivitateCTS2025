@@ -1,10 +1,10 @@
-package spital;
+package spital.factory;
 
-import spital.angajati.PersonalSpital;
-import spital.angajati.Registrator;
-import spital.angajati.Secretar;
-import spital.tipuriAngajati.TipAngajat;
-import spital.tipuriAngajati.TipNonMedical;
+import spital.factory.angajati.PersonalSpital;
+import spital.factory.angajati.Registrator;
+import spital.factory.angajati.Secretar;
+import spital.factory.tipuriAngajati.TipAngajat;
+import spital.factory.tipuriAngajati.TipNonMedical;
 
 public class PersonalNonMedicalFactory implements AngajatFactory {
     @Override

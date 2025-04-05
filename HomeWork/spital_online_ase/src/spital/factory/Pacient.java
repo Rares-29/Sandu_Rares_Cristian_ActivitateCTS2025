@@ -1,4 +1,4 @@
-package spital;
+package spital.factory;
 
 public class Pacient {
     private String nume;
