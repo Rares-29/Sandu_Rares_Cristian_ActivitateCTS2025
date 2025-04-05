@@ -1,8 +1,13 @@
 package spital.angajati;
 
 public class Asistent extends PersonalSpital{
+
+    public Asistent(String nume, Integer vechime) {
+        super(nume, vechime);
+    }
+
     @Override
-    void munceste() {
+    public void munceste() {
         System.out.println("Asistentul munceste");
     }
 }

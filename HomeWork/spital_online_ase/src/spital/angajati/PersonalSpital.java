@@ -5,5 +5,10 @@ public abstract class PersonalSpital {
     private String nume;
     private Integer vechime;
 
-    abstract void munceste();
+    public PersonalSpital(String nume, Integer vechime) {
+        this.nume = nume;
+        this.vechime = vechime;
+    }
+
+    public abstract void munceste();
 }

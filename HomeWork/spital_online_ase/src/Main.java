@@ -1,12 +1,13 @@
+import spital.AngajatFactory;
 import spital.Pacient;
+import spital.angajati.PersonalSpital;
+import spital.angajati.TipAngajat;
 
 public class Main {
     public static void main(String[] args) {
 
-        Pacient p = new Pacient.Builder("Mihnea", 21)
-                .addHalat(true)
-                .addPapuci(true)
-                .addMicDejun(true).build();
-        System.out.println(p);
+        AngajatFactory angajatFactory = new AngajatFactory();
+        PersonalSpital personalSpital = angajatFactory.creareAngajat(TipAngajat.BRANCARDIER);
+        personalSpital.munceste();
     }
 }
