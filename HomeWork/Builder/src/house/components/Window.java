@@ -1,2 +1,4 @@
-package house.components;public class Window {
+package house.components;
+
+public class Window {
 }

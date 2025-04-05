@@ -1,4 +1,4 @@
-package builder;
+package anunt;
 
 import java.awt.*;
 
@@ -13,6 +13,8 @@ public class Anunt {
     private final Double price;
     private final String numarTelefon;
     private final String email;
+
+
 
     public Anunt(String titlu, String descriere, Integer nrCamere, Double suprafata, Integer nrBai, Integer anConstructie, Image image, Double price, String numarTelefon, String email) {
         this.titlu = titlu;

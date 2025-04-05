@@ -1,2 +1,4 @@
-package house.components;public class Pool {
+package house.components;
+
+public class Pool {
 }

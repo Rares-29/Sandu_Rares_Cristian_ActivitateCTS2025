@@ -1,4 +1,6 @@
-package house;
+package house.builder;
+
+import house.House;
 
 public abstract class HouseBuilder {
 

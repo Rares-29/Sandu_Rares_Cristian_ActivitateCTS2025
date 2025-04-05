@@ -1,2 +1,6 @@
-package factory_method.reports;public class Report {
+package factory_method.reports;
+
+public interface Report {
+
+    public void saveInDb();
 }

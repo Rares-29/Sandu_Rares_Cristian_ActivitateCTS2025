@@ -1,2 +1,4 @@
-package house.components;public class Plan {
+package house.components;
+
+public class Plan {
 }

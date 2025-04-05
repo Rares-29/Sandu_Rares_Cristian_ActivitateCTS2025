@@ -1,0 +1,90 @@
+
+#Afi?eaza valorile lipsa în phone_data.csv. Completeaza coloana duration cu 0 daca este null.
+
+
+
+# Exerci?iul 4.
+# Afi?eaza durata medie a apelurilor (item == 'call') pentru fiecare re?ea (network), ordonata descrescator.
+
+# Exerci?iul 5.
+# Afi?eaza numarul de sms trimise în fiecare luna ?i salveaza rezultatul într-un fi?ier CSV.
+
+# Combina user_usage ?i supported_devices (prin user_device) ?i calculeaza câ?i utilizatori are fiecare platforma (platform), pentru fiecare producator (Retail Branding).
+
+# Afi?eaza producatorii care au trafic mediu lunar (monthly_mb) peste media globala.
+
+
+# Exerci?iul 9.
+# Reprezinta grafic (tip barh) durata totala pe luna pentru fiecare tip de activitate (item).
+
+# Creeaza un grafic line care sa arate evolu?ia lunara a traficului mediu (monthly_mb) pentru brandul „Samsung”.
+
+
+
+# Exerci?iul 12: Eliminarea valorilor invalide
+
+# ?terge înregistrarile din phone_data.csv unde durata e negativa sau depa?e?te 1000 secunde (valori eronate).
+
+
+# Exerci?iul 13: Eliminarea duplicatelor
+# Verifica ?i elimina duplicatele din user_device.csv.
+
+# Transforma toate valorile din coloana network_type în lowercase pentru consisten?a.
+
+
+# Exerci?iul 15: Top 3 luni cu cea mai mare durata totala de convorbiri
+
+# Exerci?iul 16: Media duratei per re?ea ?i tip re?ea
+#Grupare dubla pe network ?i network_type ?i calculeaza media duratei.
+
+
+# Exerci?iul 17: Utilizatori activi vs inactivi
+# Combina user_usage.csv ?i user_device.csv, apoi clasifica utilizatorii în "activi" (trafic > 0) ?i "inactivi".
+
+
+# Exerci?iul 18: Clasificare în categorii de vârsta
+# Folose?te clienti_leasing20.csv. Creeaza o coloana noua care clasifica vârstele în: tânar (<30), adult (30–60), senior (>60).
+
+
+# Exerci?iul 19: Medie venit/an per categorie de vârsta ?i sex
+
+
+
+# Exerci?iul 20: Identificarea celor mai utilizate dispozitive
+# Combina cele trei seturi (user_usage, user_device, supported_devices) ?i afi?eaza cele mai frecvente 5 modele de dispozitive.
+
+
+# Exerci?iul 21: Grafic pie cu distribu?ia sms pe tip re?ea
+
+# Afi?eaza un pie chart cu numarul de SMS-uri (item == 'sms') pe tip de re?ea (network_type).
+
+
+# Exerci?iul 22: Histograma pentru durata apelurilor
+# Reprezinta distribu?ia duratei apelurilor într-un histogram.
+
+# Exerci?iul 23: Grafic bar cu durata totala pe luna
+# Durata totala a activita?ilor (orice tip) pe luna, bar chart.
+
+
+
+# Exerci?iul 24: Grafic stacked bar pe luna ?i item
+# Durata activita?ilor împar?ita pe luna, stacked bar.
+
+
+# Exerci?iul 25: Baruri orizontale pentru cele mai utilizate re?ele
+# Top 5 re?ele dupa numarul de activita?i (call, sms, data).
+
+# Exerci?iul 26: Evolu?ia lunara a traficului mediu pentru fiecare platforma
+# Folose?te user_usage.csv ?i user_device.csv + merge.
+
+# Exerci?iul 27: Linia de trend pentru numarul total de SMS-uri pe luna
+
+# Exerci?iul 28: Top 10 cele mai folosite modele de telefoane
+# Combina toate 3 seturi ?i creeaza un bar chart.
+
+# Exerci?iul 29: Trafic total pe branduri (pie chart)
+# Creeaza un pie chart cu traficul total (monthly_mb) per brand.
+ 
+
+
+

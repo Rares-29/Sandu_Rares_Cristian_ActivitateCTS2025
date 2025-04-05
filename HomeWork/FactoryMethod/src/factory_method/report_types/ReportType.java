@@ -1,2 +1,4 @@
-package factory_method;public interface ReportType {
+package factory_method.report_types;
+
+public interface ReportType {
 }

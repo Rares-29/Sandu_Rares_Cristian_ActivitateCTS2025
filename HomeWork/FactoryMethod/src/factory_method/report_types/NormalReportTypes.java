@@ -1,2 +1,6 @@
-package factory_method;public enum NormalReportTypes {
+package factory_method.report_types;
+
+public enum NormalReportTypes implements ReportType {
+    DRA,
+    SNAPSHOT
 }

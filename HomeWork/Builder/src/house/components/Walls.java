@@ -1,2 +1,4 @@
-package house.components;public class Walls {
+package house.components;
+
+public class Walls {
 }
